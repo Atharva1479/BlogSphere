@@ -29,7 +29,7 @@ Follow these steps to get the project running locally:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/BlogSphere.git
+   git clone https://github.com/Atharva1479/BlogSphere.git
    cd BlogSphere
    ```
 
